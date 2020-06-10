@@ -1,0 +1,3 @@
+include ':SecondModule'
+include ':FirstModule'
+rootProject.name = "ModuleTest"
